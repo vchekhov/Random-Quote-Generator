@@ -32,6 +32,20 @@ var quotes = [
 		citation: "The Road",
 		year: 2006,
 		category: "Lifestyle"
+	},
+	{
+		quote: "Nowadays people know the price of everything and the value of nothing.",
+		source: "Oscar Wilde",
+		citation: "The Picture of Dorian Gray",
+		year: 1890,
+		category: "Literary"
+	},
+	{
+		quote: "No one forgets the truth; they just get better at lying.",
+		source: "Richard Yates",
+		citation: "Revolutionary Road",
+		year: 1961,
+		category: "Humor"
 	}
 ];
 
